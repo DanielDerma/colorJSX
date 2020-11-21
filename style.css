@@ -1,0 +1,28 @@
+h1 {
+    color: white !important;
+}
+
+header, nav {
+    text-align: center;
+    background-color:rgba(55, 55, 196, 0.651);
+}
+nav {
+    background-color: greenyellow;
+}
+
+nav h3 {
+    color:black;
+    display: inline;
+    margin-right: 50px;
+}
+
+article{
+    background-color: rgba(0, 0, 0, 0.788);
+    padding: 0;
+}
+
+.hola {
+    background-color: white;
+    height: 245px;
+    margin: 20px;    
+}
